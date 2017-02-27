@@ -13,7 +13,6 @@ cd testing
 
 ## Run docker container + program
 ```
-./run.sh
-cd /conv-pose
+./run_container.sh
 python run.py
 ```
